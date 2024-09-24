@@ -103,5 +103,6 @@ Feel free to make any further adjustments or let me know if there's anything els
 
 ## High level architecture
 
-![image](https://github.com/user-attachments/assets/45116c5a-6e45-48ba-bfc5-f2158e953052)
+![image](https://github.com/user-attachments/assets/f4dc6204-4b5a-4a7c-8fff-86fd4e26f121)
+
 
