@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/7e423387-a4dd-40f6-b443-403bdbbc1fa4)
 
-
+# High level architecture
 
 ![image](https://github.com/user-attachments/assets/56434508-944e-41fe-b948-519cf2ead09c)
 
