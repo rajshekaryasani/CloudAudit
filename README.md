@@ -5,7 +5,8 @@
 
 # High level architecture
 
-![image](https://github.com/user-attachments/assets/9afe9f2d-8f74-4975-9b1b-c02c8e45c2b7)
+![image](https://github.com/user-attachments/assets/23342e43-4c08-4e57-84fb-1cf69dc9fe09)
+
 
 
 
