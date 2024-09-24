@@ -100,3 +100,8 @@ vbnet
 Copy code
 
 Feel free to make any further adjustments or let me know if there's anything else you'd like to include!
+
+## High level architecture
+
+![image](https://github.com/user-attachments/assets/45116c5a-6e45-48ba-bfc5-f2158e953052)
+
