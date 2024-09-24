@@ -3,6 +3,11 @@
 
 ![image](https://github.com/user-attachments/assets/14548b7a-b51d-41e2-94d6-1cbfa8a0ece4)
 
+
+![image](https://github.com/user-attachments/assets/56434508-944e-41fe-b948-519cf2ead09c)
+
+
+
 CloudAudit is an open-source tool designed for auditing security configurations across various cloud platforms, including AWS, Azure, and Google Cloud Platform (GCP). These scripts help identify misconfigurations and compliance issues based on industry standards such as CIS benchmarks.
 
 ## Features
@@ -101,8 +106,6 @@ Copy code
 
 Feel free to make any further adjustments or let me know if there's anything else you'd like to include!
 
-## High level architecture
 
-![image](https://github.com/user-attachments/assets/f4dc6204-4b5a-4a7c-8fff-86fd4e26f121)
 
 
