@@ -27,7 +27,6 @@ CloudAudit is an open-source tool designed for auditing security configurations 
 
 To get started, clone this repository to your local machine:
 
-```bash
 git clone https://github.com/yourusername/CloudAudit.git
 cd CloudAudit
 
@@ -36,13 +35,13 @@ Python 3.x (for AWS and GCP scripts)
 PowerShell (for Azure scripts)
 Appropriate permissions and access to your cloud environment
 
-Usage
-AWS
+## Usage
+## AWS
 To audit IAM on AWS:
-
 bash
 Copy code
 python aws/iam_audit.py
+
 To audit S3 buckets:
 bash
 Copy code
@@ -53,7 +52,7 @@ bash
 Copy code
 python aws/ec2_audit.py
 
-Azure
+## Azure
 To audit Azure Active Directory:
 powershell
 Copy code
@@ -69,7 +68,7 @@ powershell
 Copy code
 .\azure\vm_audit.ps1
 
-GCP
+## GCP
 To audit GCP IAM:
 bash
 Copy code
@@ -88,9 +87,9 @@ python gcp/gcp_compute_audit.py
 Documentation
 Refer to the following guides for detailed usage instructions:
 
-AWS Audit Guide
-Azure Audit Guide
-GCP Audit Guide
+## AWS Audit Guide
+## Azure Audit Guide
+## GCP Audit Guide
 
 Contributing
 We welcome contributions to improve this toolkit! Please see CONTRIBUTING.md for guidelines on how to contribute.
@@ -98,14 +97,9 @@ We welcome contributions to improve this toolkit! Please see CONTRIBUTING.md for
 License
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
 
-Acknowledgments
-Special thanks to all contributors and the community for their support and feedback.
 
 Contact
-For any inquiries or feedback, please reach out to your.email@example.com.
-
-vbnet
-Copy code
+For any inquiries or feedback, please reach out to rajshekaryasani@gmail.com
 
 Feel free to make any further adjustments or let me know if there's anything else you'd like to include!
 
