@@ -3,8 +3,6 @@
 
 ![image](https://github.com/user-attachments/assets/7e423387-a4dd-40f6-b443-403bdbbc1fa4)
 
-<img width="643" alt="image" src="https://github.com/user-attachments/assets/8e2319a0-43d4-4c90-8295-2690d7c7ab5b">
-
 
 # High level architecture
 
