@@ -31,7 +31,7 @@ To get started, clone this repository to your local machine:
 git clone https://github.com/yourusername/CloudAudit.git
 cd CloudAudit
 
-Prerequisites
+## Prerequisites
 Python 3.x (for AWS and GCP scripts)
 PowerShell (for Azure scripts)
 Appropriate permissions and access to your cloud environment
