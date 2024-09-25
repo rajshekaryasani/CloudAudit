@@ -110,8 +110,5 @@ Copy code
 Feel free to make any further adjustments or let me know if there's anything else you'd like to include!
 
 
-## Installation
-
-
 
 
